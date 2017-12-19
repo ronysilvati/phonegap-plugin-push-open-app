@@ -1,0 +1,3 @@
+A classe em questão deve ser incluida no lugar da padrão do plugin phonegap push notifications,
+isso faz com que quando enviado um payload do tipo "forceView":"true", ao receber uma notificação
+a aplicação automaticamente abre a atividade padrão (mesmo que esteja fechada)
